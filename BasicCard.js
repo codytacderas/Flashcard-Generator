@@ -30,7 +30,7 @@ function flashCard(front, back){
 	this.back = back;
 };
 
-// Function to create new flashcards.
+// Function to create new flashcards
 function createFlashCards() {
 	// Prompts the user to write a question and a corresopnding answer
 	inquirer.prompt ([
@@ -59,7 +59,7 @@ function createFlashCards() {
 	});
 };
 
-// Function to review already created flashcards.
+// Function to review flashcards from array
 function reviewFlashCards() {
-	
+	// Write some quality code here
 };
