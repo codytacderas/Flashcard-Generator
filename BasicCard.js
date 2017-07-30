@@ -46,9 +46,7 @@ var beginReview = function() {
 						});
 					});
 			} else {
-				// Call the reviewFlashCards function defined (also hopefully) below
-				reviewFlashCards();
-				console.log("Pretend that we're reviewing!");
+				console.log("Something significant goes here.");
 				return;
 			}
 		})

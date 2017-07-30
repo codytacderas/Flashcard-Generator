@@ -1,1 +1,1 @@
-[{"front":"Who is dat bitch?","back":"Dat bitch Monique."}]
+[{"front":"Who is the sexiest bitch ever?","back":"Monique."},{"front":"Who is the ugliest bitch ever?","back":"Monique."}]
